@@ -1,1 +1,2 @@
-consol.log("Welcom World")
+// consol.log("Welcom World")
+const pair = "extrao";
