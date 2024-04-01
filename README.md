@@ -26,3 +26,7 @@ If you find any issues or have suggestions for improvement, please feel free to 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Author
+
+- Mohammed Hamza Fikri
+- [Linkedin](https://www.linkedin.com/in/mohammed-hamza-fikri/)
