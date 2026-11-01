@@ -43,6 +43,8 @@ $(document).ready(function () {
         "Fullstack Developer",
         "Software Developer",
         "Python Developer",
+          "IT Support",
+          "IT HelpDesk",
         
       ],
       typeSpeed: 100,
